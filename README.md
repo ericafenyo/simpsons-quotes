@@ -16,4 +16,4 @@ Une zone où est affiché le nom du personnage, la photo ainsi que la citation
 #### Critères de validation
 - [ x ] L'application affiche une citation
 - [ x ] Le nom, la photo et la citation du personnage est affiché
-- [ x] Présence d'un bouton permettant de changer cette citation
+- [ x ] Présence d'un bouton permettant de changer cette citation
