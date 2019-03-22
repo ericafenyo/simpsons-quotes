@@ -14,6 +14,6 @@ Affichage d'une citation des Simpsons
 Une zone où est affiché le nom du personnage, la photo ainsi que la citation
 * Commit et push le tout sur GitHub à la fin, et poste le lien du dépôt.
 #### Critères de validation
-- [ x ] L'application affiche une citation
-- [ x ] Le nom, la photo et la citation du personnage est affiché
-- [ x ] Présence d'un bouton permettant de changer cette citation
+- [x] L'application affiche une citation
+- [x] Le nom, la photo et la citation du personnage est affiché
+- [x] Présence d'un bouton permettant de changer cette citation
